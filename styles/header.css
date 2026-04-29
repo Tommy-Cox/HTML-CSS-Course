@@ -69,23 +69,6 @@
     position: relative;
 }
 
-.search-button .tooltip {
-    position: absolute;
-    background-color: blue;
-    color: white;
-    padding: 5px 10px;
-    border-radius: 4px;
-    font-size: 14px;
-    bottom: -30px;
-    left: 50%;
-    transform: translateX(-50%);
-    display: none;
-}
-
-.search-button:hover .tooltip {
-    display: block;
-}
-
 .search-icon {
     height: 25px;
     margin-top: 4px;
